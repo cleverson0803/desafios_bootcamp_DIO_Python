@@ -5,22 +5,21 @@
 ## 💻 Tecnologias utilizadas no projeto
 - [Python](https://www.python.org/)
 - [VS Code](https://code.visualstudio.com/)
+___
 
-### Desafio 1: Recomendação de Plano de Internet
+### 🚀 Desafio 1: Planos de Internet para Todos!
 
-Uma empresa de telecomunicações deseja criar uma solução algorítmica que ajude aos seus clientes a escolherem o plano de internet ideal com base em seu consumo mensal de dados. Crie uma função chamada `recomendar_plano` para receber o consumo médio mensal de dados informado pelo cliente, além de utilizar estruturas condicionais para fazer a verificação e retornar o plano adequado.
+Uma empresa de telecomunicações quer garantir que todos os clientes tenham o plano de internet ideal. Desenvolva uma função que recomende o plano perfeito com base no consumo médio mensal de dados.
 
-### Desafio 2: Gerenciamento de Equipamentos
+### 🛠️ Desafio 2: Catálogo de Equipamentos
 
-Você foi designado para desenvolver um programa para gerenciar os equipamentos de uma empresa. O objetivo é criar um solução que permita aos usuários inserir informações sobre os equipamentos que serão cadastrados na rede, em seguida, exibir essa lista de equipamentos. Crie uma lista para armazenar esses equipamentos e depois um loop para solicitar ao usuário inserir até três equipamentos.
+Agora é a sua vez de montar o catálogo de equipamentos de uma empresa! Crie um programa que permita aos usuários inserir até três equipamentos, e exiba essa lista para todos conferirem.
 
-### Desafio 3: Validação de Número de Telefone
+### 📞 Desafio 3: Validador de Números de Telefone
 
-Imagine que você trabalha para uma empresa de telecomunicações e é responsável por validar se um número de telefone fornecido pelo cliente está em um formato correto. Desenvolva uma função que valide se um número de telefone tem o formato correto.
+Você é o guardião da integridade dos números de telefone! Crie uma função que valide se um número fornecido pelo cliente está no formato correto: (XX) 9XXXX-XXXX. Dessa forma, garantimos que a comunicação será sempre um sucesso!
 
-Formato esperado: (XX) 9XXXX-XXXX, onde X representa um dígito de 0 a 9. Lembre-se de respeitar os espaços entre os números quando preciso.
-
-## 👨‍💻 Expert
+## 👨‍💻 Dev
 
 <p>
     <img 
